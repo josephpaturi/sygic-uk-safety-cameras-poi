@@ -21,6 +21,7 @@ Sygic navigation safetey camera POIs for UK region
 15 - congestion charge zone
 30 - stickers camera
 31 - dangerous area
+35 - Average speed check
 ```
 ## sygic
 ```
@@ -44,7 +45,7 @@ Sygic navigation safetey camera POIs for UK region
 ```
 ## mapping
 ```
-1=1,2=6,3=2,4=4,5=5,7=0,8=11,9=16,11=6,15=12,30=10,31=11
+1=1,2=6,3=2,4=4,5=5,7=0,8=11,9=16,11=6,15=12,30=10,31=11,35=4
 ```
 
 # Installation
